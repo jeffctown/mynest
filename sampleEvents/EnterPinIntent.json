@@ -1,0 +1,55 @@
+{
+  "session": {
+    "new": false,
+    "sessionId": "session1234",
+    "attributes": {},
+    "user": {
+      "userId": "1"
+    },
+    "application": {
+      "applicationId": "APP_ID"
+    }
+  },
+  "version": "1.0",
+  "request": {
+    "intent": {
+      "slots": {
+        "PinSix": {
+          "name": "PinSix",
+          "value": "f."
+        },
+        "PinFour": {
+          "name": "PinFour",
+          "value": "d."
+        },
+        "PinEight": {
+          "name": "PinEight",
+          "value": "h."
+        },
+        "PinTwo": {
+          "name": "PinTwo",
+          "value": "b."
+        },
+        "PinFive": {
+          "name": "PinFive",
+          "value": "e."
+        },
+        "PinSeven": {
+          "name": "PinSeven",
+          "value": "g."
+        },
+        "PinThree": {
+          "name": "PinThree",
+          "value": "c."
+        },
+        "PinOne": {
+          "name": "PinOne",
+          "value": "eight"
+        }
+      },
+      "name": "EnterPinIntent"
+    },
+    "type": "IntentRequest",
+    "requestId": "request5678"
+  }
+}

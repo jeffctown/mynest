@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      "intent": "TurnItUpIntent",
+      "slots": []
+    },
+    {
+      "intent": "TurnItDownIntent",
+      "slots": []
+    },
+    {
+      "intent": "SetTemperatureIntent",
+      "slots": [
+        {
+          "name": "Temperature",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "RefreshDeviceIntent",
+      "slots": []
+    },
+    {
+      "intent": "ResetIntent",
+      "slots": []
+    },
+    {
+      "intent": "EnterPinIntent",
+      "slots": [
+        {
+          "name": "PinOne",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinTwo",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinThree",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinFour",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinFive",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinSix",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinSeven",
+          "type": "LITERAL"
+        },
+        {
+          "name": "PinEight",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.e56aa1f8-cf0a-473d-9a7a-709052bac901",
+    "application": {
+      "applicationId": "APP_ID"
+    },
+    "user": {
+      "userId": "1"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.d1a2705c-7354-428e-b997-2edca5d0ee03",
+    "timestamp": "2015-08-16T20:18:07Z",
+    "intent": {
+      "name": "ResetIntent"
+    }
+  }
+}

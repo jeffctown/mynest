@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.58e64999-0642-4a65-a79f-fd0717fef331",
+    "application": {
+      "applicationId": "APP_ID"
+    },
+    "user": {
+      "userId": "1"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.5bd631b7-c3c2-421c-8b7b-8a3555853930",
+    "timestamp": "2015-08-16T20:46:17Z",
+    "intent": {
+      "name": "SetTemperatureIntent",
+      "slots": {
+        "Temperature": {
+          "name": "Temperature",
+          "value": "70"
+        }
+      }
+    }
+  }
+}

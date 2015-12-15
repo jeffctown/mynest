@@ -1,0 +1,75 @@
+TurnItUpIntent turn it up
+TurnItUpIntent im cold
+TurnItUpIntent its cold in here
+TurnItUpIntent its cold up in here
+TurnItDownIntent turn it down
+TurnItDownIntent im hot
+TurnItDownIntent its hot in here
+TurnItDownIntent its hot up in here
+ResetIntent reset reset reset
+SetTemperatureIntent set it to {sixty | Temperature}
+SetTemperatureIntent set it to {sixty one | Temperature}
+SetTemperatureIntent set it to {sixty two | Temperature}
+SetTemperatureIntent set it to {sixty three | Temperature}
+SetTemperatureIntent set it to {sixty four | Temperature}
+SetTemperatureIntent set it to {sixty five | Temperature}
+SetTemperatureIntent set it to {sixty six | Temperature}
+SetTemperatureIntent set it to {sixty seven | Temperature}
+SetTemperatureIntent set it to {sixty eight | Temperature}
+SetTemperatureIntent set it to {sixty nine | Temperature}
+SetTemperatureIntent set it to {seventy | Temperature}
+SetTemperatureIntent set it to {seventy one | Temperature}
+SetTemperatureIntent set it to {seventy two | Temperature}
+SetTemperatureIntent set it to {seventy three | Temperature}
+SetTemperatureIntent set it to {seventy four | Temperature}
+SetTemperatureIntent set it to {seventy five | Temperature}
+SetTemperatureIntent set it to {seventy six | Temperature}
+SetTemperatureIntent set it to {seventy seven | Temperature}
+SetTemperatureIntent set it to {seventy eight | Temperature}
+SetTemperatureIntent set it to {seventy nine | Temperature}
+SetTemperatureIntent set it to {eighty | Temperature}
+SetTemperatureIntent set it to {eighty one | Temperature}
+SetTemperatureIntent set it to {eighty two | Temperature}
+SetTemperatureIntent set it to {eighty three | Temperature}
+SetTemperatureIntent set it to {eighty four | Temperature}
+SetTemperatureIntent set it to {eighty five | Temperature}
+SetTemperatureIntent set it to {eighty six | Temperature}
+SetTemperatureIntent set it to {eighty seven | Temperature}
+SetTemperatureIntent set it to {eighty eight | Temperature}
+SetTemperatureIntent set it to {eighty nine | Temperature}
+EnterPinIntent my pin is {zero | PinOne} {zero | PinTwo} {zero | PinThree} {zero | PinFour} {zero | PinFive} {zero | PinSix} {zero | PinSeven} {zero | PinEight}
+EnterPinIntent my pin is {one | PinOne} {one | PinTwo} {one | PinThree} {one | PinFour} {one | PinFive} {one | PinSix} {one | PinSeven} {one | PinEight}
+EnterPinIntent my pin is {two | PinOne} {two | PinTwo} {two | PinThree} {two | PinFour} {two | PinFive} {two | PinSix} {two | PinSeven} {two | PinEight}
+EnterPinIntent my pin is {three | PinOne} {three | PinTwo} {three | PinThree} {three | PinFour} {three | PinFive} {three | PinSix} {three | PinSeven} {three | PinEight}
+EnterPinIntent my pin is {four | PinOne} {four | PinTwo} {four | PinThree} {four | PinFour} {four | PinFive} {four | PinSix} {four | PinSeven} {four | PinEight}
+EnterPinIntent my pin is {five | PinOne} {five | PinTwo} {five | PinThree} {five | PinFour} {five | PinFive} {five | PinSix} {five | PinSeven} {five | PinEight}
+EnterPinIntent my pin is {six | PinOne} {six | PinTwo} {six | PinThree} {six | PinFour} {six | PinFive} {six | PinSix} {six | PinSeven} {six | PinEight}
+EnterPinIntent my pin is {seven | PinOne} {seven | PinTwo} {seven | PinThree} {seven | PinFour} {seven | PinFive} {seven | PinSix} {seven | PinSeven} {seven | PinEight}
+EnterPinIntent my pin is {eight | PinOne} {eight | PinTwo} {eight | PinThree} {eight | PinFour} {eight | PinFive} {eight | PinSix} {eight | PinSeven} {eight | PinEight}
+EnterPinIntent my pin is {nine | PinOne} {nine | PinTwo} {nine | PinThree} {nine | PinFour} {nine | PinFive} {nine | PinSix} {nine | PinSeven} {nine | PinEight}
+EnterPinIntent my pin is {a. | PinOne} {a. | PinTwo} {a. | PinThree} {a. | PinFour} {a. | PinFive} {a. | PinSix} {a. | PinSeven} {a. | PinEight}
+EnterPinIntent my pin is {b. | PinOne} {b. | PinTwo} {b. | PinThree} {b. | PinFour} {b. | PinFive} {b. | PinSix} {b. | PinSeven} {b. | PinEight}
+EnterPinIntent my pin is {c. | PinOne} {c. | PinTwo} {c. | PinThree} {c. | PinFour} {c. | PinFive} {c. | PinSix} {c. | PinSeven} {c. | PinEight}
+EnterPinIntent my pin is {d. | PinOne} {d. | PinTwo} {d. | PinThree} {d. | PinFour} {d. | PinFive} {d. | PinSix} {d. | PinSeven} {d. | PinEight}
+EnterPinIntent my pin is {e. | PinOne} {e. | PinTwo} {e. | PinThree} {e. | PinFour} {e. | PinFive} {e. | PinSix} {e. | PinSeven} {e. | PinEight}
+EnterPinIntent my pin is {f. | PinOne} {f. | PinTwo} {f. | PinThree} {f. | PinFour} {f. | PinFive} {f. | PinSix} {f. | PinSeven} {f. | PinEight}
+EnterPinIntent my pin is {g. | PinOne} {g. | PinTwo} {g. | PinThree} {g. | PinFour} {g. | PinFive} {g. | PinSix} {g. | PinSeven} {g. | PinEight}
+EnterPinIntent my pin is {h. | PinOne} {h. | PinTwo} {h. | PinThree} {h. | PinFour} {h. | PinFive} {h. | PinSix} {h. | PinSeven} {h. | PinEight}
+EnterPinIntent my pin is {i. | PinOne} {i. | PinTwo} {i. | PinThree} {i. | PinFour} {i. | PinFive} {i. | PinSix} {i. | PinSeven} {i. | PinEight}
+EnterPinIntent my pin is {j. | PinOne} {j. | PinTwo} {j. | PinThree} {j. | PinFour} {j. | PinFive} {j. | PinSix} {j. | PinSeven} {j. | PinEight}
+EnterPinIntent my pin is {k. | PinOne} {k. | PinTwo} {k. | PinThree} {k. | PinFour} {k. | PinFive} {k. | PinSix} {k. | PinSeven} {k. | PinEight}
+EnterPinIntent my pin is {l. | PinOne} {l. | PinTwo} {l. | PinThree} {l. | PinFour} {l. | PinFive} {l. | PinSix} {l. | PinSeven} {l. | PinEight}
+EnterPinIntent my pin is {m. | PinOne} {m. | PinTwo} {m. | PinThree} {m. | PinFour} {m. | PinFive} {m. | PinSix} {m. | PinSeven} {m. | PinEight}
+EnterPinIntent my pin is {n. | PinOne} {n. | PinTwo} {n. | PinThree} {n. | PinFour} {n. | PinFive} {n. | PinSix} {n. | PinSeven} {n. | PinEight}
+EnterPinIntent my pin is {o. | PinOne} {o. | PinTwo} {o. | PinThree} {o. | PinFour} {o. | PinFive} {o. | PinSix} {o. | PinSeven} {o. | PinEight}
+EnterPinIntent my pin is {p. | PinOne} {p. | PinTwo} {p. | PinThree} {p. | PinFour} {p. | PinFive} {p. | PinSix} {p. | PinSeven} {p. | PinEight}
+EnterPinIntent my pin is {q. | PinOne} {q. | PinTwo} {q. | PinThree} {q. | PinFour} {q. | PinFive} {q. | PinSix} {q. | PinSeven} {q. | PinEight}
+EnterPinIntent my pin is {r. | PinOne} {r. | PinTwo} {r. | PinThree} {r. | PinFour} {r. | PinFive} {r. | PinSix} {r. | PinSeven} {r. | PinEight}
+EnterPinIntent my pin is {s. | PinOne} {s. | PinTwo} {s. | PinThree} {s. | PinFour} {s. | PinFive} {s. | PinSix} {s. | PinSeven} {s. | PinEight}
+EnterPinIntent my pin is {t. | PinOne} {t. | PinTwo} {t. | PinThree} {t. | PinFour} {t. | PinFive} {t. | PinSix} {t. | PinSeven} {t. | PinEight}
+EnterPinIntent my pin is {u. | PinOne} {u. | PinTwo} {u. | PinThree} {u. | PinFour} {u. | PinFive} {u. | PinSix} {u. | PinSeven} {u. | PinEight}
+EnterPinIntent my pin is {v. | PinOne} {v. | PinTwo} {v. | PinThree} {v. | PinFour} {v. | PinFive} {v. | PinSix} {v. | PinSeven} {v. | PinEight}
+EnterPinIntent my pin is {w. | PinOne} {w. | PinTwo} {w. | PinThree} {w. | PinFour} {w. | PinFive} {w. | PinSix} {w. | PinSeven} {w. | PinEight}
+EnterPinIntent my pin is {x. | PinOne} {x. | PinTwo} {x. | PinThree} {x. | PinFour} {x. | PinFive} {x. | PinSix} {x. | PinSeven} {x. | PinEight}
+EnterPinIntent my pin is {y. | PinOne} {y. | PinTwo} {y. | PinThree} {y. | PinFour} {y. | PinFive} {y. | PinSix} {y. | PinSeven} {y. | PinEight}
+EnterPinIntent my pin is {z. | PinOne} {z. | PinTwo} {z. | PinThree} {z. | PinFour} {z. | PinFive} {z. | PinSix} {z. | PinSeven} {z. | PinEight}
