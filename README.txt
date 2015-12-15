@@ -25,6 +25,6 @@ Create a table for tokens (represents nest api tokens after authentication).
 
 The sample intents in the /sampleIntents folder have their APP_ID removed.  You will need to replace APP_ID with your Alexa Skill ID if you want to use these for testing.
 
-The speed assets are in the /speechAssets folder.  I used the intentgenerator.py python script to generate the Utterances.txt.  The files in this folder will need to be added to your Alexa Skill.
+The speed assets are in the /speechAssets folder.  I used the intentgenerator.py python script to generate the Utterances.txt.  The contents of the files in this folder (other than the python script) will need to be added to your Alexa Skill.
 
 Let me know if you have any questions.  This project is not actively maintained or supported, but I don't mind helping you out if you want to get this working.  
